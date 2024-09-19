@@ -18,7 +18,7 @@ lxml
 numpy>=1.21.2
 oauth2client
 opencv-python-headless
-pillow==8.3.2
+pillow==10.0.1  # Diperbarui
 profanitydetector
 psutil
 pypdf2>=1.26.0
@@ -26,7 +26,7 @@ pytz
 qrcode
 requests
 tabulate
-git+https://github.com/xditya/telegraph.git@41fd800#egg=telegraph
+git+https://github.com/xditya/telegraph.git@master#egg=telegraph  # Diperbarui
 tgcrypto
 youtube-search-python
 yt-dlp
